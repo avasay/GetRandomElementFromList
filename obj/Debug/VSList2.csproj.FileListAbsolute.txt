@@ -1,0 +1,7 @@
+C:\Users\alejandrio.vasay\source\lessons\VSList2\bin\Debug\VSList2.exe.config
+C:\Users\alejandrio.vasay\source\lessons\VSList2\bin\Debug\VSList2.exe
+C:\Users\alejandrio.vasay\source\lessons\VSList2\bin\Debug\VSList2.pdb
+C:\Users\alejandrio.vasay\source\lessons\VSList2\obj\Debug\VSList2.csprojAssemblyReference.cache
+C:\Users\alejandrio.vasay\source\lessons\VSList2\obj\Debug\VSList2.csproj.CoreCompileInputs.cache
+C:\Users\alejandrio.vasay\source\lessons\VSList2\obj\Debug\VSList2.exe
+C:\Users\alejandrio.vasay\source\lessons\VSList2\obj\Debug\VSList2.pdb
